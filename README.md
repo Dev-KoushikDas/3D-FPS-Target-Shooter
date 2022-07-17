@@ -6,8 +6,5 @@
 https://user-images.githubusercontent.com/90111866/179410405-31d58d3c-1c41-4ffc-8fbd-474b7aa6687f.mp4
 
 
-##Screenshot taken during gameplay
-
-![](FPS Game Screenshot.png)
 
 

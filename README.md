@@ -8,5 +8,5 @@ https://user-images.githubusercontent.com/90111866/179410405-31d58d3c-1c41-4ffc-
 
 ##Screenshot taken during gameplay
 
-[]!(FPS Game Screenshot.png)
+![](FPS Game Screenshot.png)
 
